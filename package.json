@@ -1,0 +1,19 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Object-Oriented Programming Challenge using Node.js, Jest and Inquirer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rfields03/Team-Profile-Generator.git"
+  },
+  "author": "Robert S Field",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rfields03/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/Rfields03/Team-Profile-Generator#readme"
+}
