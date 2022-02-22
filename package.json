@@ -4,7 +4,7 @@
   "description": "Object-Oriented Programming Challenge using Node.js, Jest and Inquirer",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rfields03/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/Rfields03/Team-Profile-Generator#readme"
+  "homepage": "https://github.com/Rfields03/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
