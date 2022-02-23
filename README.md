@@ -16,8 +16,10 @@ This application was created to generate a team profile based on user input for 
 The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module. If testing is required, this application uses Jest.
 
 ## Usage 
-Use inquirer from your command line to answer questions about your project.
+Use inquirer from your command line to answer questions about your project - `node index.js`
 View walk through video here - [Screencastify]
+(https://drive.google.com/file/d/1tSdT1juEWeGqsW1nJColrx5V89NHJCf8/view)<br>
+<img src="html.jpg">
 
 ## License 
 This project is license under MIT
