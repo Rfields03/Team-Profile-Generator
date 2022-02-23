@@ -9,5 +9,5 @@ test('creates a Manager object', () => {
 test('gets role of employee', () => {
   const manager = new Manager('Robert', 90, 'rfields03@gmail.com');
 
-  expect(mananger.getRole()).toEqual("Manager");
+  expect(manager.getRole()).toEqual("Manager");
 });
