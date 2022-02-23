@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Object-Oriented Programming Challenge using Node.js, Jest and Inquirer",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
     "test": "jest"
   },
@@ -18,5 +21,8 @@
   "homepage": "https://github.com/Rfields03/Team-Profile-Generator#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
